@@ -71,3 +71,4 @@ $sizes = array_combine($image['srcset']['sizes']['size'], $image['srcset']['size
 ?>
 
 ```
+[Link to snippet](https://codereview.stackexchange.com/questions/278506/generating-responsive-image-html-with-php)
