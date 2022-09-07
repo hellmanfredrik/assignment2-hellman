@@ -38,6 +38,36 @@ Below are four cities I would recommend someone to visit. First column is the ci
 
 ## Pithy Quotes
 
-> Life is what happens when you're busy making other plans. _John Lennon_
+> Life is what happens when you're busy making other plans. - _John Lennon_
 
-> Get busy living or get busy doing. _Stephen King_
+> Get busy living or get busy doing. - _Stephen King_
+
+--------------------------------------------------
+
+## Code snippets
+
+> Generating responsive image html with php?
+
+[Link to stackoverflow](https://codereview.stackexchange.com/questions/278506/generating-responsive-image-html-with-php)
+
+```
+ <?
+$image= [
+    'name' => 'faith',
+    'srcset' =>
+        [
+        'sizes' =>
+                [
+                'size' => ['xs','sm','md','lg','xl','xxl'],
+                'vw' => [ 576, 768, 992, 1200, 1400, 2048 ]
+                ],
+        'ratio' => ['portrait' => '3x4','landscape' => '3x2' ],
+        'format' => ['avif', 'webp','jpg']
+        ],
+    'caption' => 'Earth Day, Victoria, BC',
+];
+
+$sizes = array_combine($image['srcset']['sizes']['size'], $image['srcset']['sizes']['vw']);
+?>
+
+```
