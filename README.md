@@ -12,3 +12,8 @@
 2. Take the subway towards World Trade Center
 3. Take the bus to the Museum of Natural History
 
+- Mythic creatures
+- Lizards and snakes
+- Beavers
+- Blue Whale Model
+- Easter Island
