@@ -33,3 +33,11 @@ Below are four cities I would recommend someone to visit. First column is the ci
 | Helsinki | Musiikkitalo |2 weeks|
 | Madrid  | Santiago Bernabeu  |4 days|
 | Paris | Eiffel Tower   |2 days|
+
+-------------------------------------------------
+
+## Pithy Quotes
+
+> Life is what happens when you're busy making other plans. _John Lennon_
+
+> Get busy living or get busy doing. _Stephen King_
