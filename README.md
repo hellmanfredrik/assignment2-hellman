@@ -32,4 +32,4 @@ Below are four cities I would recommend someone to visit. First column is the ci
 | London  | Big Ben | 2 days|
 | Helsinki | Musiikkitalo |2 weeks|
 | Madrid  | Santiago Bernabeu  |4 days|
-| Paris | Eiffel Tower  |2 days|
+| Paris | Eiffel Tower   |2 days|
