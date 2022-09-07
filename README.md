@@ -26,12 +26,8 @@
 
 Below are four cities I would recommend someone to visit. First column is the city, second column is an important location to visit and the third column is how long you should stay there.
 
-| London | Big Ben | 2 days |
-| Helsinki | Musiikkitalo | 2 weeks |
-| Madrid | Santiago Bernabeu | 4 days | 
-| Paris | Eiffel tower | 2 days |
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+| London  | Big Ben | 2 days|
+| Helsinki | Musiikkitalo |2 weeks|
+| Madrid  | Santiago Bernabeu  |4 days|
+| Paris | Eiffel Tower  |2 days|
